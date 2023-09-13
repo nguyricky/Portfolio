@@ -1,3 +1,3 @@
-import WIP from "./pages/WIP";
+import SocialMedia from "./pages/SocialMedia";
 
-export { WIP }
+export { SocialMedia }
