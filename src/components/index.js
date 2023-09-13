@@ -1,4 +1,3 @@
-import WIP from "./construction/WIP";
+import WIP from "./pages/WIP";
 
-
-export {WIP}
+export { WIP }

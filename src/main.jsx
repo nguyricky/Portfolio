@@ -1,20 +1,21 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import React from 'react'
+import ReactDOM from 'react-dom/client'
 import './index.css'
+import { RouterProvider, createBrowserRouter  } from 'react-router-dom'
 
-import {
+import { 
   WIP
 } from './components/index'
 
-const router = createBrowserRouter([{
-  path: "/",
-  element:  <WIP />
-}])
-
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <WIP />,
+  }
+]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router}/>
+      <RouterProvider router={router} />
   </React.StrictMode>,
 )
