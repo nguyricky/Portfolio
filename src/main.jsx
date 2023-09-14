@@ -4,12 +4,17 @@ import './index.css'
 import { RouterProvider, createBrowserRouter  } from 'react-router-dom'
 
 import { 
-  SocialMedia
+  SocialMedia,
+  WIP
 } from './components/index'
 
 const router = createBrowserRouter([
   {
     path: "/",
+    element: <WIP />,
+  },
+  {
+    path: "/dev",
     element: <SocialMedia />,
   }
 ]);
