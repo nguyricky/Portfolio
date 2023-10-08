@@ -1,4 +1,4 @@
-import LogoImage from "../images/Logo.png"
+import LogoImage from "../../../public/logo.svg"
 
 const WIP = () => {
     return (
