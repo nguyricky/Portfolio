@@ -12,3 +12,7 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
 </p>
+
+## About
+Welcome! I'm Ricky Nguyen, and I'm passionate about Front-End Development and Data Science. This serves as a platform for me to share my thoughts, projects, and experiences with the world.
+
