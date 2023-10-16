@@ -16,3 +16,6 @@
 ## About
 Welcome! I'm Ricky Nguyen, and I'm passionate about Front-End Development and Data Science. This serves as a platform for me to share my thoughts, projects, and experiences with the world.
 
+## License
+
+The site rickynguyen.dev is a [Apache Licensed](https://www.apache.org/licenses/LICENSE-2.0) software by [Ricky Nguyen](https://github.com/nguyricky)
