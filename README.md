@@ -19,3 +19,7 @@ Welcome! I'm Ricky Nguyen, and I'm passionate about Front-End Development and Da
 ## License
 
 The site rickynguyen.dev is a [Apache Licensed](https://www.apache.org/licenses/LICENSE-2.0) software by [Ricky Nguyen](https://github.com/nguyricky)
+
+## Support
+
+Feel free to [donate](https://ko-fi.com/rickynguyen), and know that every contribution goes a long way in supporting my continued development!
