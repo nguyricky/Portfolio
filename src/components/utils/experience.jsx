@@ -8,7 +8,9 @@ const Experience = () => {
         <ul className="space-y-8">
           <li>
             <h3 className="text-md font-sans text-[#0a0f15] underline underline-offset-4">
-              karman space & defense
+              <a href="https://karman-sd.com/" target="_blank" rel="noopener noreferrer">
+                karman space & defense
+              </a>
             </h3>
             <p className="text-md text-[#0a0f15] opacity-85 mt-2">
               full stack software enginner intern
@@ -19,7 +21,7 @@ const Experience = () => {
             </p>
           </li>
           <li>
-            <h3 className="text-md font-sans text-[#0a0f15] underline underline-offset-4">
+            <h3 className="text-md fßont-sans text-[#0a0f15] underline underline-offset-4">
               oregon state university - college of business
             </h3>
             <p className="text-md text-[#0a0f15] opacity-85 mt-2">
@@ -32,7 +34,9 @@ const Experience = () => {
           </li>
           <li>
             <h3 className="text-md font-sans text-[#0a0f15] underline underline-offset-4">
-              captured sun
+              <a href="https://www.sun.museum/" target="_blank" rel="noopener noreferrer">
+                captured sun
+              </a>
             </h3>
             <p className="text-md text-[#0a0f15] opacity-85 mt-2">software engineer intern</p>
             <p className="text-sm text-[#0a0f15] opacity-85 mb-2">(sept. 2023 - june 2024)</p>
@@ -98,7 +102,10 @@ const Experience = () => {
             </p>
           </li>
         </ul>
-        <a href="https://github.com/nguyricky" className="inline-flex items-center text-md text-[#0a0f15] underline underline-offset-4 mt-8">
+        <a
+          href="https://github.com/nguyricky"
+          className="inline-flex items-center text-md text-[#0a0f15] underline underline-offset-4 mt-8"
+        >
           more projects
           <ArrowRight02Icon className="w-4 h-4 ml-1" />
         </a>
