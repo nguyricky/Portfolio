@@ -13,7 +13,7 @@ const Experience = () => {
               </a>
             </h3>
             <p className="text-md text-[#0a0f15] opacity-85 mt-2">
-              full stack software enginner intern
+              full stack software engineer intern
             </p>
             <p className="text-sm text-[#0a0f15] opacity-85 mb-2">(sept. 2024 - present)</p>
             <p className="text-md text-[#0a0f15] opacity-60">
