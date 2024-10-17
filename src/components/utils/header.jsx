@@ -1,4 +1,4 @@
-import { Location01Icon, Briefcase06Icon } from "hugeicons-react";
+import { BriefcaseBusiness, MapPin } from "lucide-react";
 
 const Header = () => {
   return (
@@ -18,11 +18,11 @@ const Header = () => {
       </div>
 
       <div className="flex items-center font-sans text-md text-[#0a0f15] mb-2 opacity-80">
-        <Location01Icon className="w-6 h-6 mr-2" />
+        <MapPin className="w-6 h-6 mr-2" />
         <span>portland, oregon</span>
       </div>
       <div className="flex items-center font-sans text-md text-[#0a0f15] opacity-80">
-        <Briefcase06Icon className="w-6 h-6 mr-2" />
+        <BriefcaseBusiness className="w-6 h-6 mr-2" />
         <span>full stack swe intern @ karman space & defense</span>
       </div>
 
