@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rickynguyne.dev/">
+  <a href="https://rickynguyen.dev/">
     <img src="https://github.com/nguyricky/portfolio/blob/main/public/portfolio_banner.svg" alt="Personal Banner">
   </a>
 </p>
