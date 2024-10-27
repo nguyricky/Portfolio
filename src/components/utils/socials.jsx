@@ -30,8 +30,8 @@ const Socials = () => {
       </nav>
       <hr className="border-gray-200 mb-6" />
       <div className="flex flex-row justify-between mb-10">
-        <p className="text-sm text-[#0a0f15] opacity-60">Experience is the teacher of all things.</p>
-        <p className="text-sm text-[#0a0f15] opacity-60">Crafted in 2024 - Ricky Nguyen</p>
+        <p className="text-sm text-[#0a0f15] opacity-60">experience is the teacher of all things.</p>
+        <p className="text-sm text-[#0a0f15] opacity-60">crafted in 2024 - ricky nguyen</p>
       </div>
     </footer>
   );
