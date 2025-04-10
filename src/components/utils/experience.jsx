@@ -13,11 +13,25 @@ const Experience = () => {
               </a>
             </h3>
             <p className="text-md text-[#0a0f15] opacity-85 mt-2">
-              full stack software engineer intern
+              software engineer
             </p>
-            <p className="text-sm text-[#0a0f15] opacity-85 mb-2">(sept. 2024 - present)</p>
+            <p className="text-sm text-[#0a0f15] opacity-85 mb-2">(mar. 2025 - present)</p>
             <p className="text-md text-[#0a0f15] opacity-60">
-              leading development for a large-scale in-house real time manufacturing tracking system
+              leading front-end development for business systems 
+            </p>
+          </li>
+          <li>
+            <h3 className="text-md font-sans text-[#0a0f15] underline underline-offset-4">
+              <a href="https://karman-sd.com/" target="_blank" rel="noopener noreferrer">
+                karman space & defense
+              </a>
+            </h3>
+            <p className="text-md text-[#0a0f15] opacity-85 mt-2">
+              software engineer intern
+            </p>
+            <p className="text-sm text-[#0a0f15] opacity-85 mb-2">(sept. 2024 - mar. 2025)</p>
+            <p className="text-md text-[#0a0f15] opacity-60">
+              developed a large-scale in-house real time manufacturing tracking system
             </p>
           </li>
           <li>
