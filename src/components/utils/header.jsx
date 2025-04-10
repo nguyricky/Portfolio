@@ -23,12 +23,12 @@ const Header = () => {
       </div>
       <div className="flex items-center font-sans text-md text-[#0a0f15] opacity-80">
         <BriefcaseBusiness className="w-6 h-6 mr-2" />
-        <span>full stack swe intern @ karman space & defense</span>
+        <span>software engineer @ karman space & defense</span>
       </div>
 
       <p className="my-8 text-[#0a0f15] text-md leading-relaxed opacity-80">
-        i&apos;m currently a grad student @ rice university studying in data science with a machine
-        learning concentration, recently receiving a cs degree @ oregon state university. my biggest pleasure is
+        i&apos;m currently a software engineer @ karman space & defense as well as a grad student @ rice university studying in data science 
+        with a machine learning concentration, recently receiving a cs degree @ oregon state university. my biggest pleasure is
         solving problems of all kinds. if i&apos;m not knee deep in work or school, i&apos;m
         probably expanding my ui/ux knowledge, researching stocks, or obsessing over watches.
       </p>
